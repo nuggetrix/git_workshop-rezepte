@@ -6,6 +6,7 @@ Salz
 Pfeffer
 Butter
 100g Schinken
+Lauch
 
 ##Zubereitung
 1 Eier aufschlagen, würzen und verquirlen.
@@ -13,3 +14,4 @@ Butter
 3 Butter in der Pfanne erhitzen.
 4 Eier in die Pfanne geben.
 5 Wenden.
+Lauch schneiden und zugeben
