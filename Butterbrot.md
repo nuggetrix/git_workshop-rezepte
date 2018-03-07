@@ -5,4 +5,4 @@
 1 Stück Butter
 
 ## Zubereitung
-Butter auf Brot drauf, kein senf drauf, fertig
+Butter auf Brot drauf fertig
